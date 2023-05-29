@@ -1,4 +1,5 @@
-# MemosToMarkdown
+# Memos to Markdown
+
 Export the database of Memos to Markdown.
 
 > Export of attachments not supported yet.

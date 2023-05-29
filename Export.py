@@ -24,7 +24,7 @@ def export_to_markdown(database_file, table_name, output_file):
             file.write(content)
             file.write('\n\n---\n\n')
     
-    print(f"Successed！Save as {output_file}")
+    print(f"Successed! Save as {output_file}")
 
 
 database_file = "memos_prod.db"

@@ -12,9 +12,14 @@ Export the database of Memos to Markdown.
 
 2. Download Export.py
 
-    ```
+    ```bash
     cd ~
     curl -O https://raw.githubusercontent.com/lihoneymi/MemosToMarkdown/master/Export.py
+    ```
+    
+    With PowerShell in Windows:
+    ```PowerShell
+    curl -U "https://raw.githubusercontent.com/lihoneymi/MemosToMarkdown/master/Export.py" -O
     ```
 
 3. Run Export.py
